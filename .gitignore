@@ -21,9 +21,12 @@ env/
 
 # Project-specific
 gesture_screenshots/
-*.jpg
-*.png
 .DS_Store
+
+# Allow gesture results to be committed
+!gesture_results/
+!gesture_results/*.jpg
+!gesture_results/*.png
 
 # Python
 *.egg-info/

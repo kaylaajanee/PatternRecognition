@@ -1,0 +1,12 @@
+# Hand Gesture Recognition Project Requirements
+# MediaPipe officially supports Python 3.9, 3.10, 3.11, and 3.12
+# This project uses Python 3.12 for maximum compatibility
+
+mediapipe==0.10.21
+opencv-python==4.11.0.86
+opencv-contrib-python==4.11.0.86
+numpy==1.26.4
+matplotlib==3.10.7
+pillow==12.0.0
+jupyter==1.1.1
+ipython==9.8.0
